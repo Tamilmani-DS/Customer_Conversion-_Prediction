@@ -28,14 +28,14 @@ SMOTE Oversampling we are using due to imbalence data
 1 - 29496
 
 # 6.Scalling
-We used StandardScaler
+We used StandardScaler.
 
 # 7.Models
 We used Linear regression, K nearest neigbors, Decision Tree, xgboost and Random Forest.
 
 # 7.1.Model Evaluation
 We are going to comapre auroc curve
-model Evaluaton
+model Evaluaton.
 
 # Save The Model
 we use  pickle package to save the model.
